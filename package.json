@@ -1,0 +1,20 @@
+{
+  "name": "wavvy-server",
+  "version": "1.0.0",
+  "description": "Backend code base for Wavvy app",
+  "homepage": "https://github.com/VengadeshRaj/wavvy-server#readme",
+  "bugs": {
+    "url": "https://github.com/VengadeshRaj/wavvy-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VengadeshRaj/wavvy-server.git"
+  },
+  "license": "ISC",
+  "author": "Vengadesh Raj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
